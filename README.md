@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on mastering Spring Data JPA and other Spring frameworks<br>👯‍♂️ I'm looking to collaborate on innovative projects managing databases  and using Spring for various activities<br>💬 Ask me about my Linux setup! I'm always excited to talk about it.
+🔭 Currently working on mastering Spring Data JPA and other Spring frameworks<br>👯‍♂️ I'm looking to collaborate on innovative projects managing databases  and using Spring for various activities<br>💬 Ask me about my Linux box! I'm always excited to talk about it.
 
 
 ## 🌐 Socials:
